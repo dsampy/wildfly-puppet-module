@@ -1,3 +1,3 @@
 class wildfly {
-  include wildfly::install, wildfly::config, wildfly::service
+  include wildfly::params, wildfly::install, wildfly::config, wildfly::service
 }
