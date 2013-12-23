@@ -1,0 +1,3 @@
+class wildfly::config {
+
+}
